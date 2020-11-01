@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/emcpaden/aimlctl/cmd"
+import "github.com/emcpadden/example/go/cobra/aimlctl/cmd"
 
 func main() {
 	cmd.Execute()
